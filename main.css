@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap');
+body {
+    margin: 0px;
+    font-family: 'Inter', sans-serif;
+}
+
+.header {
+    margin: 0px;
+    background-color: #19D3DA;
+}
+
+.logo {
+    float: left;
+    text-decoration: none;
+    margin-top: 20px;
+    margin-left: 60px;
+}
+
+.hey1 {
+    font-family: 'Nunito', sans-serif;
+}
+
+.center {
+    text-align: center;
+}
+
+.P2 svg {
+    width: 40px;
+    color: #19D3DA;
+    padding-top: 20px;
+}
+
+.Space {
+    height: 100px;
+}
+
+#button1 {
+    float: right;
+    border-radius: 8px;
+    margin-top: -9px;
+    border: none;
+    padding: 8px 15px;
+    width: 120px;
+    background-color: white;
+    color: #19D3DA;
+    outline: none;
+}
+
+#button2 {
+    float: left;
+    border-radius: 8px;
+    border: none;
+    padding: 8px 15px;
+    width: 120px;
+    background-color: #19D3DA;
+    color: white;
+    outline: none;
+}
+
+ul {
+    list-style-type: none;
+    overflow: hidden;
+    margin: 0px;
+    padding: 16px 32px;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: center;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.P1G {
+    float: left;
+    margin-left: 70px;
+    margin-top: 40px;
+    width: 45%;
+    height: 400px;
+}
+
+.P1D {
+    float: right;
+    margin-right: 20px;
+    margin-top: 40px;
+    width: 45%;
+    height: 400px;
+}
+
+.P2G {
+    float: left;
+    margin-left: 60px;
+    width: 20%;
+}
+
+.P2C {
+    width: 20%;
+    display: inline-block;
+    margin: 0 auto;
+}
+
+.P2D {
+    float: right;
+    margin-right: 60px;
+    width: 20%;
+}
