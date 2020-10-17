@@ -47,6 +47,11 @@ body {
     outline: none;
 }
 
+#button1:hover {
+    background-color: #686D76;
+    color: white;
+}
+
 #button2 {
     float: left;
     border-radius: 8px;
@@ -56,6 +61,11 @@ body {
     background-color: #19D3DA;
     color: white;
     outline: none;
+}
+
+#button2:hover {
+    background-color: #686D76;
+    color: white;
 }
 
 ul {
@@ -75,6 +85,12 @@ li a {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+}
+
+li a:hover {
+    background-color: white;
+    color: #19D3DA;
+    box-shadow: 0px 0px 10px white;
 }
 
 .P1G {
