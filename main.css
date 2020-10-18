@@ -53,6 +53,7 @@ body {
     float: right;
     border-radius: 8px;
     margin-top: -9px;
+    margin-right: 40px;
     border: none;
     padding: 8px 15px;
     width: 120px;
@@ -94,6 +95,8 @@ li {
 }
 
 li a {
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
     display: center;
     color: white;
     text-align: center;
