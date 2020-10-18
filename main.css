@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@1,800&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap');
 body {
     margin: 0px;
@@ -25,8 +26,17 @@ body {
     text-align: left;
 }
 
+.hey2 {
+    font-family: 'Nunito', sans-serif;
+    text-align: left;
+}
+
 .center {
     text-align: center;
+}
+
+.P2 {
+    margin: 40px;
 }
 
 .P2 svg {
@@ -99,19 +109,18 @@ li a:hover {
 
 .P1G {
     float: left;
-    margin-left: 70px;
-    margin-top: 40px;
+    margin-left: 110px;
+    margin-top: 60px;
     width: 45%;
-    height: 400px;
-    background-color: blue;
+    height: 450px;
 }
 
 .P1D {
     float: right;
     margin-right: 20px;
-    margin-top: 40px;
+    margin-top: 60px;
     width: 45%;
-    height: 400px;
+    height: 450px;
 }
 
 .P2G {
